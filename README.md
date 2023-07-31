@@ -12,7 +12,7 @@
 
 ## Description
 
-An app to dynamically generate an SVG logo after a series of prompts have been answered.
+An app to dynamically generate an SVG logo after a series of prompts has been answered.
 
 ## Installation Instructions
 
