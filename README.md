@@ -5,7 +5,7 @@
 # Table of Contents
 
 * [Description](#description)
-* [Installation](#installation)
+* [Installation](#installation-instructions)
 * [Usage](#usage)
 * [License](#license)
 * [Questions](#questions)
@@ -16,11 +16,15 @@ An app to dynamically generate an SVG logo after a series of prompts have been a
 
 ## Installation Instructions
 
-git clone
+git clone git@github.com:iggy-ziggy/SVG-logo-maker.git
 
 ## Usage
 
+From the command line, use npm i to install dependencies.
+After installation, type 'node index.js' in the terminal to run the program.
 Follow the prompts and an SVG logo will be made to your specifications.
+
+Demonstration: https://watch.screencastify.com/v/MN68exCmm9JBK6v2rFa6
 
 ## License
 [Link to MIT License](https://opensource.org/licenses/MIT)
